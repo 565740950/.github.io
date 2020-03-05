@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhengapple.ml/"/>
-  <updated>2020-02-27T11:11:54.516Z</updated>
+  <updated>2020-03-05T15:45:31.451Z</updated>
   <id>https://zhengapple.ml/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>3月5日更新</title>
+    <link href="https://zhengapple.ml/post/ee69d616"/>
+    <id>https://zhengapple.ml/post/ee69d616</id>
+    <published>2020-03-05T15:41:00.000Z</published>
+    <updated>2020-03-05T15:45:31.451Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="bfv://heroku.19170.workers.dev:443/vmess/1?rtype=lanchina&dns=8.8.8.8&tnet=ws&tsec=tls&uid=ad806487-2d26-4636-98b6-ab85cc8521f7&aid=64&sec=auto&ws=path%3D%26headers%3D%257B%2522Host%2522%253A%2522%2522%257D#Heroku%20%2B%20CDN">Heroku 美国5/3</a></p><p><a href="bfv://kubesail.19170.workers.dev:443/vmess/1?rtype=lanchina&dns=8.8.8.8&tnet=ws&tsec=tls&uid=ad806487-2d26-4636-98b6-ab85cc8521f7&aid=64&sec=auto&ws=path%3D%252Fws%26headers%3D%257B%2522Host%2522%253A%2522%2522%257D#kubesail%20%2B%20CDN">Kubesail 美国5/3</a></p><p><a href="bfv://frp.2t.work:12525/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=63586a9a-2249-40dd-bc2c-5e79451fad27&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#PR-%E8%81%94%E9%80%9A">PR联通5/3</a></p><p><a href="bfv://111.229.166.139:41241/vmess/1?rtype=lanchina&dns=8.8.8.8&mux=1&muxc=512&uid=63586a9a-2249-40dd-bc2c-5e79451fad27&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#%E8%85%BE%E8%AE%AF">腾讯5/3</a></p><p><a href="bfv://hk1.frp.ioiox.com:41241/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=63586a9a-2249-40dd-bc2c-5e79451fad27&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#PR%E9%A6%99%E6%B8%AF1">PR香港1 5/3</a></p><p><a href="bfv://hk2.frp.ioiox.com:41241/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=63586a9a-2249-40dd-bc2c-5e79451fad27&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#PR%E9%A6%99%E6%B8%AF2">PR香港2 5/3</a></p><p><a href="bfv://us1.frp.ioiox.com:41241/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=63586a9a-2249-40dd-bc2c-5e79451fad27&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#PR%E7%BE%8E%E5%9B%BD1">PR美国5/3</a></p><p><a href="bfv://jp2.frp.ioiox.com:41245/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=63586a9a-2249-40dd-bc2c-5e79451fad27&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#PR%E6%97%A5%E6%9C%AC1">PR日本1 5/3</a></p><p><a href="bfv://jp2.frp.ioiox.com:41245/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=63586a9a-2249-40dd-bc2c-5e79451fad27&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#PR%E6%97%A5%E6%9C%AC2">PR日本2 5/3</a></p><p><a href="bfv://frp.2t.work:11833/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=89ddef4c-6d68-4964-b7c7-cb3ad87f6396&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#ETH-%E8%81%94%E9%80%9A">ETH联通5/3</a></p><p><a href="bfv://us1.frp.ioiox.com:41242/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=89ddef4c-6d68-4964-b7c7-cb3ad87f6396&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#ETH%E7%BE%8E%E5%9B%BD1">ETH美国5/3</a></p><p><a href="bfv://hk1.frp.ioiox.com:41242/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=89ddef4c-6d68-4964-b7c7-cb3ad87f6396&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#ETH%E9%A6%99%E6%B8%AF1">ETH香港1 5/3</a></p><p><a href="bfv://hk2.frp.ioiox.com:41242/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=89ddef4c-6d68-4964-b7c7-cb3ad87f6396&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#ETH%E9%A6%99%E6%B8%AF2">ETH香港2 5/3</a></p><p><a href="bfv://jp1.frp.ioiox.com:41242/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=89ddef4c-6d68-4964-b7c7-cb3ad87f6396&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#ETH%E6%97%A5%E6%9C%AC1">ETH日本1 5/3</a></p><p><a href="bfv://jp2.frp.ioiox.com:41242/vmess/1?rtype=lanchina&dns=8.8.8.8&uid=89ddef4c-6d68-4964-b7c7-cb3ad87f6396&aid=64&sec=auto&tcp=header%3Dnone%26req%3D#ETH%E6%97%A5%E6%9C%AC1">ETH日本2 5/3</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;bfv://heroku.19170.workers.dev:443/vmess/1?rtype=lanchina&amp;dns=8.8.8.8&amp;tnet=ws&amp;tsec=tls&amp;uid=ad806487-2d26-4636-98b6-ab85cc8521f7&amp;
+      
+    
+    </summary>
+    
+    
+      <category term="翻墙" scheme="https://zhengapple.ml/categories/%E7%BF%BB%E5%A2%99/"/>
+    
+    
+      <category term="翻墙" scheme="https://zhengapple.ml/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+  </entry>
   
   <entry>
     <title>泡茶方</title>
@@ -472,30 +498,6 @@
     
     
       <category term="文档" scheme="https://zhengapple.ml/categories/%E6%96%87%E6%A1%A3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>每天一篇</title>
-    <link href="https://zhengapple.ml/post/93b61bf0"/>
-    <id>https://zhengapple.ml/post/93b61bf0</id>
-    <published>2020-01-03T14:17:42.000Z</published>
-    <updated>2020-02-25T12:10:10.274Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://zhengapple.top/wp-content/uploads/2020/01/15778770985465762708412167316358.jpg" data-fancybox="group" data-caption class="fancybox"><img alt data-src="https://zhengapple.top/wp-content/uploads/2020/01/15778770985465762708412167316358.jpg" class="lazyload" title></a></p><p>路上</p><p>躺了一个早上，其实我知道这是逃避现实。不可否认我出现了轻微的社交障碍，自卑，无助以及迷茫。一年又一年，2020年如期而至，自己实在无法接受？还是无法接受自己没有令自己满意的改变？</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;https://zhengapple.top/wp-content/uploads/2020/01/15778770985465762708412167316358.jpg&quot; data-fancybox=&quot;group&quot; data-caption class
-      
-    
-    </summary>
-    
-    
-      <category term="个人" scheme="https://zhengapple.ml/categories/%E4%B8%AA%E4%BA%BA/"/>
     
     
   </entry>
